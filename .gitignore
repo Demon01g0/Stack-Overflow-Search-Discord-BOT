@@ -1,0 +1,4 @@
+node_modules
+.fandogh
+Dockerfile
+yarn.lock
